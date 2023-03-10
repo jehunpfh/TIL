@@ -2,9 +2,11 @@ Xcode에서 유용한 단축키들을 정리하고 있습니다. 계속 업데�
 UIKit을 기준으로 작성하였습니다.
 ### 문서 주석 생성
 - **opt + cmd + /**
-    ![Pasted image 20230307230031](https://user-images.githubusercontent.com/121538666/223467515-6e52610a-f2c2-459e-ba23-1cb87ed3cd01.png)
-    ![Pasted image 20230307230341](https://user-images.githubusercontent.com/121538666/223467523-a9a6493d-8684-4bf9-a902-57486c84b327.png)
-    현재 커서가 위치한 대상의 문서 주석을 생성합니다. 
+
+![Pasted image 20230307230031](https://user-images.githubusercontent.com/121538666/223467515-6e52610a-f2c2-459e-ba23-1cb87ed3cd01.png)    
+![Pasted image 20230307230341](https://user-images.githubusercontent.com/121538666/223467523-a9a6493d-8684-4bf9-a902-57486c84b327.png)
+
+현재 커서가 위치한 대상의 문서 주석을 생성합니다. 
 
 ### 탭간의 이동
 - **ctrl + cmd + 화살표 좌, 우**
