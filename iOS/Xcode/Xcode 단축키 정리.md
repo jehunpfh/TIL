@@ -45,7 +45,7 @@ UIKit을 기준으로 작성하였습니다.
 
 - 현재 커서가 위치하고 있는 scope를 위의 사진처럼 접을 수 있습니다. 코드가 너무 길어서 다른 코드를 찾기 힘들때 지금 보고 있지 않은 것들은 접어두면 편리합니다.
 
-### Snippet/Object 목록 열기
+### Snippet/Object 목록 열기
 - **shift + cmd + L**
 
 ![Pasted image 20230312163011](https://user-images.githubusercontent.com/121538666/224532002-9f8fdc3d-bbfc-4bfd-9d24-8d18c10055a8.png)
