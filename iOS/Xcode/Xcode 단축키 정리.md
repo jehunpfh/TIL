@@ -33,3 +33,28 @@ UIKit을 기준으로 작성하였습니다.
 
 ![Pasted image 20230307234736](https://user-images.githubusercontent.com/121538666/223467535-e8948dd8-92ba-4b38-a76e-627e8b1a1608.png)
 -  마우스를 통해서 constraint를 생성할 때, shift를 누른 상태에서 여러개를 선택할 수 있습니다.
+
+### SF Symbols에서 심볼 텍스트 복사
+- **shfit + cmd + c**
+- 원하는 심볼을 클릭한 후에 위의 단축키로 심볼의 이름을 복사할 수 있습니다. 붙여넣기는 cmd + v 로 할 수 있습니다.
+
+### scope 접기/펴기
+- **opt + cmd + 화살표 좌/우**
+
+![Pasted image 20230312162442](https://user-images.githubusercontent.com/121538666/224531998-5a2ac7f8-8c59-41b5-91e4-7ce81b9f6c2a.png)
+
+- 현재 커서가 위치하고 있는 scope를 위의 사진처럼 접을 수 있습니다. 코드가 너무 길어서 다른 코드를 찾기 힘들때 지금 보고 있지 않은 것들은 접어두면 편리합니다.
+
+### Snippet/Object 목록 열기
+- **shift + cmd + L**
+
+![Pasted image 20230312163011](https://user-images.githubusercontent.com/121538666/224532002-9f8fdc3d-bbfc-4bfd-9d24-8d18c10055a8.png)
+
+- 지금 위치하고있는 파일에 따라 위의 커맨드를 입력했을 때 열리는 목록창의 종류가 달라집니다. Interface Builder에서는 객체 목록이, swift파일에서는 스니펫 목록이 열립니다.
+
+### 소프트웨어 키보드 노출시키기
+- **shift + cmd + k** 
+
+![Pasted image 20230312165709](https://user-images.githubusercontent.com/121538666/224532003-ecdef8e7-28b5-4d49-9f5a-7d302384c7f9.png)
+
+- 시뮬레이터에서 소프트 키보드가 나타납니다.
