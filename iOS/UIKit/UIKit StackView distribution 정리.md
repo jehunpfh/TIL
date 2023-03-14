@@ -1,3 +1,4 @@
+# UIKit StackView Distribution 정리
 ## Distribution이란?
 - 스택뷰의 축을 따라서 정렬된 뷰들의 position과 size를 정의하는 레이아웃입니다.
 
