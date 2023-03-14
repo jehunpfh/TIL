@@ -4,7 +4,7 @@
 ## 속성
 - 속성은 fill, fillEqaully, fillProportionally, eqaulSpacing, eqaulCentering이 있습니다.
 
-#### fill 
+#### fill
 
 ![Pasted image 20230314201049](https://user-images.githubusercontent.com/121538666/224994931-c35d9f86-d5bb-4e5f-b7fb-8db877f53d83.png)
 
